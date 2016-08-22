@@ -11,7 +11,8 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #cc99ff;
+  /*color: #cc99ff;*/
+  color: #20B2AA;
 }
 p {
   font-size: 14px;
