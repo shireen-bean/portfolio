@@ -560,7 +560,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
+  /*background-image: url('../img/map-image.png');*/
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -757,4 +757,9 @@ body {
 
 .intro-heading{
   color: white;
+}
+
+.contact-buttons{
+  margin-left: auto;
+  margin-right: auto;
 }
